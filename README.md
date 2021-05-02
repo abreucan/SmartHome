@@ -14,9 +14,7 @@ Acerca de nuestro producto:
 
 DISCLAIMER: este producto fue creado como proyecto final de PROGRAMACION II, en la Universidad Latina de Panamá.
 
-Andrea Abreu XDC399635 | andreaabreu09@gmail.com
-
-# SmartHome
+# SmartHome - revisar abajo para link de presentación
 En este repositorio se encuentra el proyecto final de Domótica.
 En la rama "Version-3.0.0": 
 - Codigos de programa SmartHome. 
