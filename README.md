@@ -18,4 +18,4 @@ LINK DEL VIDEO FINAL: https://drive.google.com/file/d/1YjI72Ysy59M8iYWE_l92bwyEZ
 El programa corre, parece haber un problema con las librerias que no pudimos resolver, en tal caso de no funcionar el enter porfavor ejecutar el MENULed aparte. 
 - Ademas de esto en caso de que no funcione el progama, hemos adjuntado la libreria Panama_Hitek en: "librer+ja"
 - Recuerde utilizar el usuario "juanito" y el password "1234".
-- Al tener algun prolema con los digods, porfavor contactarse con los inetgrantes del grupo. 
+- Al tener algun problema con los codigos, porfavor contactarse con los integrantes del grupo. 
