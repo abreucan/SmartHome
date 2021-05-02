@@ -2,7 +2,7 @@
 En este repositorio se encuentra el proyecto final de Domótica.
 En la rama "Version-3.0.0": 
 - Codigos de programa SmartHome. 
-- AEDUINO-SMARTHOME: Codigos de Arduino. 
+- ARDUINO-SMARTHOME: Codigos de Arduino. 
 - RECURSOS/MARKETING: el cual tiene la presentacion, el logo y el video de la presentacion del proyecto. 
 
 Los integrantes de este grupo son: 
